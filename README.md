@@ -1,14 +1,15 @@
 # Netflix_Data-Exploration-&-Visualization
-NetflixTitles Data Exploration and Analysis
-Overview
+
+## Overview: 
 This project delves into an in-depth exploration of Netflix's vast collection of movies and TV shows. The dataset encompasses meta details including titles, directors, casts, release years, ratings, durations, and more. As an initial step, we load the dataset and engineer new features. Throughout this analysis, we uncover top insights and findings, shedding light on trends, patterns, and correlations within Netflix's entertainment repertoire.
 
-Exploration and Analysis Approach: 
+## Exploration and Analysis Approach: 
 During this project, we meticulously analyzed various aspects of the NetflixTitles dataset using SQL. We delved into factors such as the distribution of titles over time, genres, ratings, geographical origin, and cast members. By leveraging SQL's power, we aimed to unearth actionable insights to understand Netflix's content landscape better.
 
-Data Source: The dataset was sourced from Kaggle Netflix movies and tv shows, providing comprehensive information on their collection of movies and TV shows.
+## Data Source: 
+The dataset was sourced from Kaggle Netflix movies and tv shows, providing comprehensive information on their collection of movies and TV shows.
 
-Key Tasks Performed:
+## Key Tasks Performed:
 * Checked all the details of the table such as column names, data types, and constraints.
 * Identified and removed duplicate values in all columns.
 * Streamlined the dataset by removing redundant columns.
